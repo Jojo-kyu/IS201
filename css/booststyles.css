@@ -1,0 +1,27 @@
+head{
+    top:5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    border: solid 2px black;
+}
+body{
+    top: 115px;
+    bottom: 65px;
+    left: 5px;
+    right: 5px;
+    
+    position: absolute;
+
+}
+h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: olivedrab;
+
+}
+footer{
+    bottom: 5px;
+    height: 50px;
+    left: 5px;
+    right: 5px;
+}
